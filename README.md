@@ -56,7 +56,7 @@ Instant Order Redirect for WooCommerce enhances the shopping experience by addin
 
 
 ## Support
-For support, please contact [Your Email or Support Link].
+For support, please contact Md Parvez.
 
 ## Changelog
 ### v1.8
